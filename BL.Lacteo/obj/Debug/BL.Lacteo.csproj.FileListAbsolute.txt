@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\BL.Lacteo.dll.config
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\BL.Lacteo.dll
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\BL.Lacteo.pdb
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\obj\Debug\BL.Lacteo.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\obj\Debug\BL.Lacteo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\obj\Debug\BL.Lacteo.csproj.CopyComplete
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\obj\Debug\BL.Lacteo.dll
+C:\Users\PC\Desktop\LacteoPOS\RPOYECTO LACTEOS PARTE ANTONIO VILLATORO\Lacteo-master\BL.Lacteo\obj\Debug\BL.Lacteo.pdb
